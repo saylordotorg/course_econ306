@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON306: Industrial Organization"
+course_description: "An exploration of market structure analysis and the strategic behaviors of competing firms in different market settings with equal emphasis on theory and empirical studies. Topics include strategies of competitive and cooperative behaviors, firm decisions in regulated environments and the likely effects of deregulation, and a game-theoretic approach."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Antitrust Markets** <span id="7"></span> 
 
 *In this section, we will study the boundaries of a market that is

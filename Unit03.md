@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON306: Industrial Organization"
+course_description: "An exploration of market structure analysis and the strategic behaviors of competing firms in different market settings with equal emphasis on theory and empirical studies. Topics include strategies of competitive and cooperative behaviors, firm decisions in regulated environments and the likely effects of deregulation, and a game-theoretic approach."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Theory of the Firm** <span id="3"></span> 
 *In order to understand the mechanics of Industrial Organization, you
 must have a solid grasp of microeconomic concepts, especially that of

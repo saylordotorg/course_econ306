@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON306: Industrial Organization"
+course_description: "An exploration of market structure analysis and the strategic behaviors of competing firms in different market settings with equal emphasis on theory and empirical studies. Topics include strategies of competitive and cooperative behaviors, firm decisions in regulated environments and the likely effects of deregulation, and a game-theoretic approach."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Field of Industrial Organization** <span id="1"></span> 
 *The most basic questions that concern the field of Industrial
 Organization are: How do firms acquire market power?  How do firms use

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON306: Industrial Organization"
+course_description: "An exploration of market structure analysis and the strategic behaviors of competing firms in different market settings with equal emphasis on theory and empirical studies. Topics include strategies of competitive and cooperative behaviors, firm decisions in regulated environments and the likely effects of deregulation, and a game-theoretic approach."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Models of Oligopoly** <span id="5"></span> 
 *The behavior of firms in oligopoly continues to pique the interest of
 researchers, scholars, and students alike, who have generated numerous
