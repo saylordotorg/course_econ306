@@ -144,3 +144,4 @@ your week for study and make your schedule accordingly.
 - [Unit 7](https://legacy.saylor.org/econ306/Unit07/)
 - [Unit 8](https://legacy.saylor.org/econ306/Unit08/)
 - [Unit 9](https://legacy.saylor.org/econ306/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ECON/ECON306/ECON306-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ECON/ECON306/ECON306-FinalExam-Answers.html)
