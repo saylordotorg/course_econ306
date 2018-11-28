@@ -293,9 +293,9 @@ Note: This subunit is covered by the reading assigned under Unit 5.2. 
 -   **Reading: The Saylor Foundation’s “Non-Cooperative Collusion and
     Tacit Collusion”**
     Link: The Saylor Foundation’s "[Non-Cooperative Collusion and Tacit
-    Collusion](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON306-NoncooperativeCollusion.pdf)"
+    Collusion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ECON306-NoncooperativeCollusion.pdf)"
     (PDF) and "[Notes to Non-Cooperative Collusion and Tacit
-    Collusion](https://resources.saylor.org/archived/wp-content/uploads/2011/10/SAYLOR.ORG-ECON306-NOTESCOLLUSION.pdf)"
+    Collusion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/SAYLOR.ORG-ECON306-NOTESCOLLUSION.pdf)"
     (PDF)  
         
      Instructions: Please read the slides and the notes for slides 1-4

@@ -95,7 +95,7 @@ computer
 √     Have completed ECON101 and ECON103/MA101
 
 √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 ### Course Information
 
